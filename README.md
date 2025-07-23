@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sophomore at Zhejiang University, major in Computer Science.
+Year-3 at Zhejiang University, major in Computer Science.
 
-My research interest lies in Artificial Intelligence.
+My research interest lies in Computer Graphics.
