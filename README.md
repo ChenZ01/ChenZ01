@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Year-4 at Zhejiang University, major in Computer Science.
+First Year Master of Computer Science at Computer Graphics Group@MBZUAI.
 
-My research interest lies in Computer Graphics.
+B.Eng in CS@Chu Ko Chen Honors College, Zhejiang University.
