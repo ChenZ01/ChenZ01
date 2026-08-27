@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-First Year Master of Computer Science at Computer Graphics Group@MBZUAI.
+First Year Master of Computer Science at Graphics Group@MBZUAI.
 
-B.Eng in CS@Chu Ko Chen Honors College, Zhejiang University.
+B.Eng in CS@Chu Kochen Honors College, Zhejiang University.
